@@ -105,7 +105,7 @@ en: &DEFAULT_EN
             icon: fab fa-twitter
           - url: https://facebook.com
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/hongjunyun/
             icon: fab fa-linkedin-in
       - name: "Esther Cho"
         role: "Developer"
@@ -115,7 +115,7 @@ en: &DEFAULT_EN
             icon: fab fa-twitter
           - url: https://facebook.com
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/esther-ahyeon-cho/
             icon: fab fa-linkedin-in
       - name: "Chloe Na"
         role: "Developer"
