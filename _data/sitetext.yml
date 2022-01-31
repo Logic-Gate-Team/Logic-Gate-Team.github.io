@@ -99,7 +99,7 @@ en: &DEFAULT_EN
     people:
       - name: "Hongjun Yun"
         role: "Team Lead"
-        image: assets/img/team/500x500.jpg
+        image: https://avatars.githubusercontent.com/u/46326335?v=4
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
