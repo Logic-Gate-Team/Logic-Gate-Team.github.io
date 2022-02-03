@@ -21,8 +21,8 @@ en: &DEFAULT_EN
     text: "Logic Gate Platform"
     section: services
     list:
-      - title: "Fair"
-        desc: "Provides fair opertunity to learn programming"
+      - title: "Fairenss"
+        desc: "Provides fair opertunity to learn programming to every user of the platform"
         icon: fas fa-balance-scale #find more at https://fontawesome.com/icons
       - title: "Trust"
         desc: "Each tutor could upload their portfolio to the platform to assist the users to choose the right tutor for their needs. Each tutor could also see other tutors' portfolios to grow themselves"
