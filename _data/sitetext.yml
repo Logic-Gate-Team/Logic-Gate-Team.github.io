@@ -94,7 +94,6 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR TEAM"
-    subtext: Innovation
     section: team
     people:
       - name: "Hongjun Yun"
