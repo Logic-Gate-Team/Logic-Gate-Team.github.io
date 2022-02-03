@@ -24,9 +24,9 @@ en: &DEFAULT_EN
       - title: "Fair"
         desc: "Provides fair opertunity to learn programming"
         icon: fas fa-balance-scale #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
+      - title: "Transparent"
+        desc: "Each user can choose, browse, and search the criteria they wants to meet the tutor that matches their needs"
+        icon: fas fa-stack-exchange
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
