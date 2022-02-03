@@ -109,7 +109,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Esther Cho"
         role: "Developer"
-        image: assets/img/team/500x500.jpg
+        image: https://avatars.githubusercontent.com/u/88179478?v=4
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -119,7 +119,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Chloe Na"
         role: "Developer"
-        image: assets/img/team/500x500.jpg
+        image: https://avatars.githubusercontent.com/u/67348519?v=4
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -129,7 +129,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Siyeon Jung"
         role: "Developer"
-        image: assets/img/team/500x500.jpg
+        image: https://avatars.githubusercontent.com/u/54653714?v=4
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
