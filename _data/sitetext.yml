@@ -17,8 +17,8 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Goal"
-    text: "Lorem ipsum"
+    title: "Our Goal"
+    text: "Logic Gate Platform"
     section: services
     list:
       - title: "Fair"
