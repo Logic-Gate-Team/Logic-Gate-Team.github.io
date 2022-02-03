@@ -127,7 +127,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Siyeon Jung"
-        role: "<br>Developer"
+        role: "Project Designer/Architecture<br>Developer"
         image: https://avatars.githubusercontent.com/u/54653714?v=4
         social:
           - url: https://twitter.com
