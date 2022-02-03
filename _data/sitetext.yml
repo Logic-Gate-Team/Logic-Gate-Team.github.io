@@ -98,7 +98,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Hongjun Yun"
-        role: "Team Lead\nDeveloper\nPM"
+        role: "Team Lead<br>Developer<br>PM"
         image: https://avatars.githubusercontent.com/u/46326335?v=4
         social:
           - url: https://twitter.com
