@@ -31,15 +31,9 @@ en: &DEFAULT_EN
         desc: "Each user can choose, browse, and search the criteria they wants to meet the tutor that matches their needs"
         icon: fab fa-stack-exchange
 
-  portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    closebutton: "Close Project"
-
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "Important Milestones"
     section: timeline
     # left is the default
     #start_align: "left"
