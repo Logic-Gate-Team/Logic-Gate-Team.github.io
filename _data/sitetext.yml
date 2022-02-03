@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title:
-    text: Welcome to Logic Gate Team!
+    text: Welcome to Logic Gate!
     button: Tell Me More
     buttonlink: "#services"
 
