@@ -14,7 +14,7 @@
 #theme: jekyll-agency
 remote_theme: Logic-Gate-Team/agency-jekyll-theme
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "https://logic-gate-team.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Logic Gate Team
