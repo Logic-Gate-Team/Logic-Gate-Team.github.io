@@ -26,10 +26,10 @@ en: &DEFAULT_EN
         icon: fas fa-balance-scale #find more at https://fontawesome.com/icons
       - title: "Transparent"
         desc: "Each user can choose, browse, and search the criteria they wants to meet the tutor that matches their needs"
-        icon: fas fa-binoculars
+        icon: fab fa-stack-exchange
       - title: "Trust"
         desc: "Each tutor could upload their portfolio to the platform to assist the users to choose the right tutor for their needs. Each tutor could also see other tutors' portfolios to grow themselves"
-        icon: fab fa-user-tie
+        icon: fas fa-user-tie
 
   portfolio:
     title: "Portfolio"
