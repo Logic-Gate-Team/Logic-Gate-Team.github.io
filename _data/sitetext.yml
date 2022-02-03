@@ -76,50 +76,40 @@ en: &DEFAULT_EN
         role: "PL/PM<br>Lead Developer"
         image: https://avatars.githubusercontent.com/u/46326335?v=4
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+          - url: https://github.com/andylang8445
+            icon: fab fa-github
           - url: https://www.linkedin.com/in/hongjunyun/
             icon: fab fa-linkedin-in
       - name: "Siyeon Jung"
         role: "Project Designer/Architecture<br>Developer"
         image: https://avatars.githubusercontent.com/u/54653714?v=4
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+          - url: https://github.com/tidusss
+            icon: fab fa-github
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Esther Cho"
         role: "Developer"
         image: https://avatars.githubusercontent.com/u/88179478?v=4
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+          - url: https://github.com/EstherAhyeonCho
+            icon: fab fa-github
           - url: https://www.linkedin.com/in/esther-ahyeon-cho/
             icon: fab fa-linkedin-in
       - name: "Chloe Na"
         role: "Developer"
         image: https://avatars.githubusercontent.com/u/67348519?v=4
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+          - url: https://github.com/chloena0123
+            icon: fab fa-github
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Seoyeon Choi"
         role: "Developer"
         image: https://avatars.githubusercontent.com/u/90433858?v=4
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+          - url: https://github.com/sadie0925
+            icon: fab fa-github
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
 
