@@ -139,7 +139,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Seoyeon Choi"
         role: "Developer"
-        image: assets/img/team/500x500.jpg
+        image: https://avatars.githubusercontent.com/u/90433858?v=4
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
