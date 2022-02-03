@@ -24,12 +24,12 @@ en: &DEFAULT_EN
       - title: "Fair"
         desc: "Provides fair opertunity to learn programming"
         icon: fas fa-balance-scale #find more at https://fontawesome.com/icons
-      - title: "Transparent"
-        desc: "Each user can choose, browse, and search the criteria they wants to meet the tutor that matches their needs"
-        icon: fab fa-stack-exchange
       - title: "Trust"
         desc: "Each tutor could upload their portfolio to the platform to assist the users to choose the right tutor for their needs. Each tutor could also see other tutors' portfolios to grow themselves"
         icon: fas fa-user-tie
+      - title: "Transparent"
+        desc: "Each user can choose, browse, and search the criteria they wants to meet the tutor that matches their needs"
+        icon: fab fa-stack-exchange
 
   portfolio:
     title: "Portfolio"
