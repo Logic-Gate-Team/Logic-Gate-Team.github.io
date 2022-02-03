@@ -26,7 +26,7 @@ en: &DEFAULT_EN
         icon: fas fa-balance-scale #find more at https://fontawesome.com/icons
       - title: "Transparent"
         desc: "Each user can choose, browse, and search the criteria they wants to meet the tutor that matches their needs"
-        icon: fas stack-exchange
+        icon: fas fa-binoculars
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
