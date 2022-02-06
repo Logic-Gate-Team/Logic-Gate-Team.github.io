@@ -39,14 +39,14 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Team Creation"
-        year: "2021"
+        year: "October 2021"
         desc: "<b>Logic Gate Team</b> has been created and the structure has been developed"
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/teamCreation.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+      - title: "Additional member joined the Team"
+        year: "November 2021"
+        desc: "Siyeon Jung have joined the team as Project Designer/Architect"
+        image: assets/img/timeline/recruitment.jpg
         alt:
       - title: "Jekyll Theme is created"
         year: "2019"
