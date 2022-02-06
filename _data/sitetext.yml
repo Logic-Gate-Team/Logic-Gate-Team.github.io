@@ -117,8 +117,8 @@ en: &DEFAULT_EN
     title: "Contact Us"
     text: "email logic.gate.team@gmail.com"
     section: contact
-    subject: "Contact Form Submission"
-    submit: "Send Email"
+    #subject: "Contact Form Submission"
+    #submit: "Send Email"
 
   footer:
     legal: "Privacy Policy"
