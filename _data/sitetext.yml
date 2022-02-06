@@ -48,11 +48,11 @@ en: &DEFAULT_EN
         desc: "Siyeon Jung have joined the team as Project Designer/Architect"
         image: assets/img/timeline/recruitment.jpg
         alt: Recruitment Image
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
+      - title: "Informational Website Created"
+        year: "January 2022-February 2022"
+        desc: "This website have been created"
+        image: assets/img/timeline/website.png
+        alt: Website Image
       #- title: "Title"
         #year: "2009-2011"
         #desc: "Your description here, **Markdown** is fully supported."
