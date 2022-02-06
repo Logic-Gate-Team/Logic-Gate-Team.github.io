@@ -43,12 +43,12 @@ en: &DEFAULT_EN
         desc: "<b>Logic Gate Team</b> has been created and the structure has been developed"
         image: assets/img/timeline/teamCreation.jpg
         alt: Team Creation Image
-      - title: "Additional member joined the Team"
+      - title: "Additional member joined"
         year: "November 2021"
         desc: "Siyeon Jung have joined the team as Project Designer/Architect"
         image: assets/img/timeline/recruitment.jpg
         alt: Recruitment Image
-      - title: "Informational Website Created"
+      - title: "Website Created"
         year: "Jan 2022-Feb 2022"
         desc: "This website have been created"
         image: assets/img/timeline/website.png
