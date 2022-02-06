@@ -40,7 +40,7 @@ en: &DEFAULT_EN
     events:
       - title: "Team Creation"
         year: "2021"
-        desc: "Logic Gate Team has been created and the structure has been developed"
+        desc: "<b>Logic Gate Team</b> has been created and the structure has been developed"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "An Agency is Born"
