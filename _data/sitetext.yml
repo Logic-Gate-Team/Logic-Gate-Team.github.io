@@ -42,12 +42,12 @@ en: &DEFAULT_EN
         year: "October 2021"
         desc: "<b>Logic Gate Team</b> has been created and the structure has been developed"
         image: assets/img/timeline/teamCreation.jpg
-        alt:
+        alt: Team Creation Image
       - title: "Additional member joined the Team"
         year: "November 2021"
         desc: "Siyeon Jung have joined the team as Project Designer/Architect"
         image: assets/img/timeline/recruitment.jpg
-        alt:
+        alt: Recruitment Image
       - title: "Jekyll Theme is created"
         year: "2019"
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
