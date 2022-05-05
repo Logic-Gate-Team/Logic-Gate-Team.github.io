@@ -88,30 +88,6 @@ en: &DEFAULT_EN
             icon: fab fa-github
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Esther Cho"
-        role: "Developer"
-        image: https://avatars.githubusercontent.com/u/88179478?v=4
-        social:
-          - url: https://github.com/EstherAhyeonCho
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/esther-ahyeon-cho/
-            icon: fab fa-linkedin-in
-      - name: "Chloe Na"
-        role: "Developer"
-        image: https://avatars.githubusercontent.com/u/67348519?v=4
-        social:
-          - url: https://github.com/chloena0123
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/chloesodium/
-            icon: fab fa-linkedin-in
-      - name: "Seoyeon Choi"
-        role: "Developer"
-        image: https://avatars.githubusercontent.com/u/90433858?v=4
-        social:
-          - url: https://github.com/sadie0925
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/sadie-seoyeon-choi-4a851a223/
-            icon: fab fa-linkedin-in
 
   contact:
     title: "Contact US"
